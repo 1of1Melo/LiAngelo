@@ -1,12 +1,13 @@
 package.json
 {
-  "name": "LiAngelo",
-  "version": "1.21.4",
+  "name": "minecraft-bot",
+  "version": "1.0.0",
+  "description": "Minecraft bot using mineflayer",
   "main": "index.js",
-  "dependencies": {
-    "mineflayer": "^4.16.0"
-  },
   "scripts": {
     "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.0.0"
   }
 }
