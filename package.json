@@ -1,0 +1,12 @@
+package.json
+{
+  "name": "minecraft-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "mineflayer": "^4.16.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
